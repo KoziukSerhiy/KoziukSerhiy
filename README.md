@@ -1,8 +1,9 @@
-## Hi there 👋
+### Hi there 👋
 <!--
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoziukSerhiy&layout=compact" width="50%"/>
 -->
 
+<!--
 <h3 align="left">SKILLS</h3>
 
 <p>
@@ -21,8 +22,8 @@
   <img alt="RxJS" src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=fff" />
 
   <img alt="Gulp" src="https://img.shields.io/badge/Gulp-cc4845?style=for-the-badge&logo=gulp&logoColor=fff" />
-
 </p>
+-->
 
 <!--
 <h3 align="left">Connect with me:</h3>
