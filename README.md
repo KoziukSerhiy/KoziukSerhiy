@@ -3,7 +3,7 @@
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoziukSerhiy&layout=compact" width="50%"/>
 -->
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">SKILLS</h3>
 
 <p>
   <img  src="https://img.shields.io/badge/Angular-d6002f?style=for-the-badge&logo=angular&logoColor=fff" alt="angular" />
