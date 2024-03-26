@@ -39,10 +39,12 @@ I am Serhiy, Front-End developer with 8+ years of experience.
   <img alt="Gulp" src="https://img.shields.io/badge/Gulp-cc4845?style=for-the-badge&logo=gulp&logoColor=fff" />
 </p>
 
-<p align='center'>
+<p align='let'>
+  <!--
   <a href="https://github.com/KoziukSerhiy/github-readme-stats">
     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoziukSerhiy&theme=default&show_icons=true" height="200px" />
   </a>
+  -->
   
   <a href="https://github.com/KoziukSerhiy/github-readme-stats">
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoziukSerhiy&layout=compact" height="200px" />
