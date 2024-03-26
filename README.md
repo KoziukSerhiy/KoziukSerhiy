@@ -1,8 +1,9 @@
 # Hi there 👋
 
-I am Serhiy, Front-End developer with 8+ years of experience.
+I am Serhiy, a Front-End developer with 8+ years of experience.
 
-<h2 align="left">🛠 Technical Stack</h2>
+<h3 align="left">🛠 Technical Stack</h3>
+
 <p >
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-e8d44d?style=for-the-badge&logo=javascript&logoColor=000" />
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-0076c6?style=for-the-badge&logo=typescript&logoColor=fff" />
