@@ -1,27 +1,21 @@
 # Hi there 👋
 
-<p align='center'>
-  <a href="https://github.com/KoziukSerhiy/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoziukSerhiy&layout=compact" height="200px" />
-  </a>
-</p>
+I am Serhiy, Front-End developer with 8+ years of experience.
 
-<p align='center'>
-  
-</p>
+<h3 align="left">📫 Reach me out!</h3>
 
-<p align='center'>
+<p align="left">
   <a href="https://www.linkedin.com/in/serhiy-koziuk/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="Linkedin" src="https://img.shields.io/badge/Serhiy%20Koziuk-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://join.skype.com/invite/kQoVt0l47ga9">
-    <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/>
+    <img alt="Skype" src="https://img.shields.io/badge/serhiy.koziuk-%2300AFF0?style=for-the-badge&logo=skype&logoColor=white"/>
   </a>
-</p>
 
-<p align='center'>
-   📫 How to reach me: <a href='mailto:seryjkozyk11@gmail.com'>seryjkozyk11@gmail.com</a>
+  <a href="mailto:seryjkozyk11@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/seryjkozyk11%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <h2 align="left">🛠 Technical Stack</h2>
@@ -43,6 +37,16 @@
   <img alt="Angular Material UI" src="https://img.shields.io/badge/Angular_Material_UI-757575?style=for-the-badge&logo=materialdesign&logoColor=fff">
 
   <img alt="Gulp" src="https://img.shields.io/badge/Gulp-cc4845?style=for-the-badge&logo=gulp&logoColor=fff" />
+</p>
+
+<p align='center'>
+  <a href="https://github.com/KoziukSerhiy/github-readme-stats">
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoziukSerhiy&theme=default&show_icons=true" height="200px" />
+  </a>
+  
+  <a href="https://github.com/KoziukSerhiy/github-readme-stats">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoziukSerhiy&layout=compact" height="200px" />
+  </a>
 </p>
 
 
