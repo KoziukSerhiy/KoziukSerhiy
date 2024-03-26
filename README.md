@@ -2,22 +2,6 @@
 
 I am Serhiy, Front-End developer with 8+ years of experience.
 
-<h3 align="left">📫 Reach me out!</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/serhiy-koziuk/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Serhiy%20Koziuk-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://join.skype.com/invite/kQoVt0l47ga9">
-    <img alt="Skype" src="https://img.shields.io/badge/serhiy.koziuk-%2300AFF0?style=for-the-badge&logo=skype&logoColor=white"/>
-  </a>
-
-  <a href="mailto:seryjkozyk11@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/seryjkozyk11%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <h2 align="left">🛠 Technical Stack</h2>
 <p >
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-e8d44d?style=for-the-badge&logo=javascript&logoColor=000" />
